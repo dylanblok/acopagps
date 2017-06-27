@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AcopaGps2</string>
+    <string name="title_activity_maps">ACOPA GPS</string>
+    <string name="show_route">Show Route</string>
+    <string name="distance_default">0.00 km</string>
+    <string name="bearing_default">N</string>
+    <string name="duration_default">0:00:00</string>
+    <string name="distance_title">Distance</string>
+    <string name="bearing_title">0.0</string>
+    <string name="duration_title">Duration</string>
+</resources>

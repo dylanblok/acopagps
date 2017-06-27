@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/dylanblok/.android/build-cache/5ef60234029b7723c0c41ee3ee3926645db21a40/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/dylanblok/Downloads/android-samples-master/tutorials/AcopaGps2/app/build/intermediates/pre-dexed/debug/classes_e821d7413cd802817c6296db8a11305b48cc449c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dylanblok/.android/build-cache/157526084e48f6f61f630702f790de71ca8311d0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/dylanblok/Downloads/android-samples-master/tutorials/AcopaGps2/app/build/intermediates/pre-dexed/debug/classes_020f0ff251af3dec0301c55e306e2f914d09c0a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dylanblok/.android/build-cache/7a06a8fd2767ea70ef0e20f39aa10bd14addb4fa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/dylanblok/Downloads/android-samples-master/tutorials/AcopaGps2/app/build/intermediates/pre-dexed/debug/classes_103fab32b9827087b1907d17cc4c306253d6acf3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dylanblok/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/dylanblok/Downloads/android-samples-master/tutorials/AcopaGps2/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_ea736aefdc268050719c36de773242d0d8904b22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dylanblok/.android/build-cache/a75441f93a427e1e7e8b8550a214f411d0fdaad3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/dylanblok/Downloads/android-samples-master/tutorials/AcopaGps2/app/build/intermediates/pre-dexed/debug/classes_2e03b4444e0f09e7f19905a06d5fc56651368b0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dylanblok/.android/build-cache/37ad59558b884cd10b8903fbb8272ec4b2259614/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/dylanblok/Downloads/android-samples-master/tutorials/AcopaGps2/app/build/intermediates/pre-dexed/debug/classes_6000adfb5df948d1a357ef538578929611ed7415.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dylanblok/.android/build-cache/3d2db5754045cf9fc2b81c55f161ac521b28ba70/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/dylanblok/Downloads/android-samples-master/tutorials/AcopaGps2/app/build/intermediates/pre-dexed/debug/classes_3e91071dce2ce2abce9ecce68c66d1c0d9267903.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dylanblok/.android/build-cache/469dab84f663f18cf3a7ff6e60dadb1be85f744e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="/Users/dylanblok/Downloads/android-samples-master/tutorials/AcopaGps2/app/build/intermediates/pre-dexed/debug/classes_64df6a5d4b98999daa42e32e1f1a0c1df731003e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dylanblok/.android/build-cache/cc5b102e1dc3e9555e69b573b9c9d7e09315281d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/dylanblok/Downloads/android-samples-master/tutorials/AcopaGps2/app/build/intermediates/pre-dexed/debug/classes_6df91c71797c29ca1d5782e3412fd2922b57a45e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dylanblok/.android/build-cache/10c08b457614ddd49b34463c0981de302ea66dc5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/dylanblok/Downloads/android-samples-master/tutorials/AcopaGps2/app/build/intermediates/pre-dexed/debug/classes_393a8db7d63997b7b24937616e83819cc98d847c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dylanblok/.android/build-cache/eceeb945a1964a81e8041c77e841d91ac070cd63/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/dylanblok/Downloads/android-samples-master/tutorials/AcopaGps2/app/build/intermediates/pre-dexed/debug/classes_e8eec3a43514c249deeddcae6e5be8a33bd5a1e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dylanblok/.android/build-cache/53273bce97a7477f4468c7459ddb2130bb373470/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="/Users/dylanblok/Downloads/android-samples-master/tutorials/AcopaGps2/app/build/intermediates/pre-dexed/debug/classes_0c6302404c1e985eb76210440669b37a447c8119.jar" />
+    </item>
+
+</items>

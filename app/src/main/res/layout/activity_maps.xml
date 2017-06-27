@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+tools:context="com.example.dylanblok.acopagps2.MapsActivity">
+
+<android.support.v4.widget.NestedScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+
+</android.support.v4.widget.NestedScrollView>
+
+<RelativeLayout
+    android:id="@+id/design_bottom_sheet"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:behavior_hideable="false"
+    app:behavior_peekHeight="80sp"
+    app:elevation="4dp"
+    app:layout_behavior="@string/bottom_sheet_behavior">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="3"
+            android:baselineAligned="false">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_weight="1">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="20sp"
+                    android:paddingTop="15sp"
+                    android:background="#FFFFFF"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="@string/distance_title"/>
+
+                <TextView
+                    android:id="@+id/distance"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/distance_default"
+                    android:textSize="32sp"
+                    android:gravity="center"
+                    android:background="#FFFFFF"
+                    android:textColor="#000000"
+                    android:color="#FFFFFF"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_weight="1">
+
+                <TextView
+                    android:id="@+id/bearing_num"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="20sp"
+                    android:paddingTop="15sp"
+                    android:background="#FFFFFF"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="@string/bearing_title"/>
+
+                <TextView
+                    android:id="@+id/bearing_letter"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/bearing_default"
+                    android:textSize="32sp"
+                    android:gravity="center"
+                    android:textColor="#000000"
+                    android:background="#FFFFFF"
+                    android:color="#66FFFFFF"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_weight="1">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="20sp"
+                    android:paddingTop="15sp"
+                    android:gravity="center"
+                    android:text="@string/duration_title"
+                    android:background="#FFFFFF"
+                    android:textColor="#000000"/>
+
+                <TextView
+                    android:id="@+id/duration"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/duration_default"
+                    android:textSize="32sp"
+                    android:gravity="center"
+                    android:background="#FFFFFF"
+                    android:textColor="#000000"/>
+            </LinearLayout>
+
+        </LinearLayout>
+        <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:map="http://schemas.android.com/apk/res-auto"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:id="@+id/map"
+            android:name="com.example.dylanblok.acopagps2.MySupportMapFragment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:context="com.example.dylanblok.acopagps.MapsActivity" >
+        </fragment>
+
+    </LinearLayout>
+
+</RelativeLayout>
+
+
+</android.support.design.widget.CoordinatorLayout>
